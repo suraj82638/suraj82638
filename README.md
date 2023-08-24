@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Suraj
-- 👀 I’m interested in MERN stack
+- 👀 I’m interested in WEB Development 
 - 🌱 I’m currently learning MERN stack, JS, Jquery and DSA with c++
   
 
