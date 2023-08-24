@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suraj
 - 👀 I’m interested in MERN stack
-- 🌱 I’m currently learning MERn stack, JS, Jquery and DSA with c++
+- 🌱 I’m currently learning MERN stack, JS, Jquery and DSA with c++
   
 
 <!---
