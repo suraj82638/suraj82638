@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suraj
 - 👀 I’m interested in WEB Development 
-- 🌱 I’m currently learning MERN stack, JS, Jquery and DSA with c++
+- 🌱 I’m currently working on DevOps, DBA, Next.js, MERN stack
   
 
 <!---
