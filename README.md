@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Suraj
-- 👀 I’m interested in WEB Development 
+- 👀 I’m interested in WEB Development, DevOps & Database Administration
 - 🌱 I’m currently working on DevOps, DBA, Next.js, MERN stack
   
 
